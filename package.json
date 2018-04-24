@@ -1,0 +1,11 @@
+{
+  "name": "ga-final-project",
+  "version": "1.0.0",
+  "description": "Final project for General assembly Javascript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

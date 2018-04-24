@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:dev": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "Matt Collier",
   "license": "ISC",
@@ -16,8 +16,5 @@
   },
   "engines": {
     "node": "9.10.1"
-  },
-  "devDependencies": {
-    "nodemon": "^1.17.3"
   }
 }

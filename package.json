@@ -7,15 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "author": "",
+  "author": "Matt Collier",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
-    "mongoose": "^5.0.16",
-    "nodemon": "^1.17.3"
+    "mongoose": "^5.0.16"
   },
   "engines": {
     "node": "9.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
   }
 }
